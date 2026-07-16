@@ -8,4 +8,4 @@ Data Projects
 - 💬 Ask me about my hobbies.
 - 📫 How to reach me: my preferred contact method is email.
 - 😄 Pronouns: he/him
-- Take a look at my Data Projects. I have some interesting insights you may be wish to seeing.
+- Take a look at my data project recommendations. I have some interesting insights you may be wish to seeing.
