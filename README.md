@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Data_projects
+Data Projects
 - 🔭 I’m currently working on python skills.
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on BI projects.
